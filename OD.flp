@@ -1,0 +1,16 @@
+﻿<flash_project name="OD" version="1">
+    <project_folder name="Action Scripts" expanded="true">
+        <project_file path="./Menu.as" filetype="as" />
+        <project_file path="./Astronaut.as" filetype="as" />
+        <project_file path="./Momentum.as" filetype="as" />
+        <project_file path="./Bullet.as" filetype="as" />
+        <project_file path="./BulletManager.as" filetype="as" />
+        <project_file path="./Enemy.as" filetype="as" />
+        <project_file path="./GameControl.as" filetype="as" />
+        <project_file path="./FlashTimer.as" filetype="as" />
+        <project_file path="./Level.as" filetype="as" />
+        <project_file path="./LevelManager.as" filetype="as" />
+        <project_file path="./Powerup.as" filetype="as" />
+    </project_folder>
+    <project_file path="./OD.fla" filetype="fla" profile="" def_file="true" />
+</flash_project>
